@@ -16,6 +16,6 @@ Chose ones I believe are useful/neat/good. No outputs, but they all run easily/q
 
 **MonteCarloDLA:** A Monte Carlo method to simulate diffusion-limited aggregation, the process whereby particles undergoing a random walk due to Brownian motion cluster together to form aggregates.
 
-**randWalk:** Simulates a random walk. Go figure.
+**RandWalk:** Simulates a random walk. Go figure.
 
 **SolveLinear:** Solves a system of linear equations.
