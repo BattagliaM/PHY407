@@ -4,7 +4,7 @@ Chose ones I believe are useful/neat/good. No outputs, but they all run easily/q
 
 **AudioFilter:** Routines for filtering wave audio files using Fourier transform methods. An example is shown with the file GraviteaTime and GraviteaTime_Filtered
 
-**Deconvolution:** Sharpens images by doing deconvultions with Fourier transforms.
+**Deconvolution:** Sharpens images by doing deconvolutions with Fourier transforms.
 
 **GaussSeidel:** Caculates a partial differential equation using the Gauss-Seidel relaxation method.
 
